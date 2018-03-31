@@ -1,6 +1,6 @@
 {
   "name": "react-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple, minimal graphql react component that fetches all your data for you",
   "main": "index.js",
   "scripts": {
