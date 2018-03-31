@@ -1,0 +1,25 @@
+{
+  "name": "react-data",
+  "version": "0.0.1",
+  "description": "A simple, minimal graphql react component that fetches all your data for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "prep-publish": "npm version patch -m 'Upgrade to %s' && npm publish && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusinto/react-data.git"
+  },
+  "keywords": [
+    "graphql",
+    "react",
+    "data"
+  ],
+  "author": "Yusinto Ng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yusinto/react-data/issues"
+  },
+  "homepage": "https://github.com/yusinto/react-data#readme"
+}
